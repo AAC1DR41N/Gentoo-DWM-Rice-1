@@ -6,4 +6,8 @@
 - Picom
 - Dank Mono Italic font
 - Rofi
+- Gentoo Linux
+- Kernel v6.12.41 x86_64
+
+
 
