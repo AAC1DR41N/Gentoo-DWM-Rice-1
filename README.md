@@ -22,6 +22,12 @@ Please credit if you reuse screenshots elsewhere.
 - **Distro:** Gentoo Linux
 - **Kernel:** 6.12.41 x86_64
 
+---
+
+## Info
+I can't provide the font here because its paid, so make sure to change the font in the configs if you use a different one!
+Please read the comments in the config files to make sure nothing breaks.
+
 ## Screenshots!
 
 ![1](https://github.com/AAC1DR41N/Gentoo-DWM-Rice-1/blob/main/1.png?raw=true)
