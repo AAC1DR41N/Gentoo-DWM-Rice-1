@@ -1,5 +1,3 @@
-<img width="2559" height="1439" alt="grafik" src="https://github.com/user-attachments/assets/ee32b9de-749d-434d-abdd-d0a01a6647a9" /># Gentoo DWM Rice #1
-
 # Gentoo DWM Rice #1
 
 Thank you for checking out my first **uploaded** rice!
