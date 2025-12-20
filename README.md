@@ -7,12 +7,6 @@ If you run into issues or have questions, feel free to open an Issue.
 
 ---
 
-## Note
-This rice is shared for inspiration and personal use.
-Please credit if you reuse screenshots elsewhere.
-
----
-
 ## What am I using?
 - **WM:** dwm
 - **Terminal:** Alacritty
